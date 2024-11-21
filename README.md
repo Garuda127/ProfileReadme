@@ -1,10 +1,56 @@
+<h2 align="left">Hola 👋 ! Mi nombre es Martín Lara y soy un desarrollador web, de Guanajuato, Mexico</h2>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Garuda127&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Garuda127&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garuda127&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Garuda127&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Garuda127&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garuda127&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/lit/324FFF" height="30" alt="lit logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="30" alt="reactivex logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="martinlarap127@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/martin-lara-peredo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Garuda127/Garuda127/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/megamind127">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=megamind127&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
