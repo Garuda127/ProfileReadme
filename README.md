@@ -47,15 +47,14 @@
 
 ###
 
-La vida de un crítico tecnológico es sencilla en muchos aspectos. Arriesgamos poco y tenemos poder sobre aquellos que ofrecen su código y su esfuerzo a nuestro juicio. Prosperamos con las críticas negativas, divertidas de escribir y de leer. Pero la triste verdad que debemos afrontar es que, en el gran orden de las cosas, cualquier línea de código mediocre tiene más impacto que lo que deja ver nuestra crítica.
-Sin embargo, en ocasiones el crítico sí se arriesga cada vez que descubre y defiende algo innovador. El mundo suele ser cruel con las nuevas ideas. Los proyectos innovadores, lo desconocido, necesita aliados. Anoche experimenté algo único, un extraordinario programa de una fuente singular e inesperada. Decir solo que el código y su desarrollador han desafiado mis prejuicios sobre la calidad en el desarrollo de software sería subestimar la realidad. Me han inspirado profundamente.
-En el pasado, jamás oculté mi desdén por el famoso lema del programador Gusteau: "Cualquiera puede programar", pero finalmente entiendo lo que realmente quiso decir: no cualquiera puede convertirse en un gran desarrollador, pero un gran desarrollador puede surgir de cualquier lugar. Es difícil imaginar un origen más humilde que el del genio que ahora lidera el equipo de desarrollo en el proyecto Gusteau's, y quien, en opinión de este crítico, es nada menos que el mejor programador de Francia.
-Pronto volveré a explorar Gusteau's, ansioso por más innovación.
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/megamind127">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=megamind127&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+
 
 ###
