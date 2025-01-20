@@ -49,11 +49,15 @@
 
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/megamind127">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=megamind127&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Garuda127&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Garuda127?pet-id=669253765004849940"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 
 
